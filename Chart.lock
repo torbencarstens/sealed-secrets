@@ -1,0 +1,6 @@
+dependencies:
+- name: sealed-secrets
+  repository: https://bitnami-labs.github.io/sealed-secrets
+  version: 2.7.3
+digest: sha256:9c252b9b685e0bfcf428ba5ba37fa19de52f57e77a17d634de82ce3f5760f158
+generated: "2023-02-01T21:35:16.256520322+01:00"

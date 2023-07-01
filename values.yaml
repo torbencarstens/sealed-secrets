@@ -8,3 +8,4 @@ sealed-secrets:
       cert-manager.io/issue-temporary-certificate: "false"
       cert-manager.io/cluster-issuer: "letsencrypt-issuer"
     hostname: sealed-secrets.carstens.tech
+    ingressClassName: nginx
